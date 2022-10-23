@@ -1,0 +1,10 @@
+{
+    "randomize": false,
+    "timeout": 1000,
+    "animation": [
+        {
+            "text": "eval let date_disp=time=>(time<10?'0':'')+time;let set_date=new Date();let hours_disp=date_disp(set_date.getHours());let minutes_disp=date_disp(set_date.getMinutes());let seconds_disp=date_disp(set_date.getSeconds());let dt_separator=':';`Time: ${hours_disp}${dt_separator}${minutes_disp}${dt_separator}${seconds_disp}`",
+            "emoji_name": "eval ['🕛','🕐','🕑','🕒','🕓','🕔','🕕','🕖','🕗','🕘','🕙','🕚'][((new Date()).getHours()%12)];"
+        }
+    ]
+}
