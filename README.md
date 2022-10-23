@@ -24,6 +24,7 @@
 6. Goto Settings of the plugin you have downloaded
 	- ![anim_status_setup](./trashes/crap_set.png)
 7. Type something random and **save** it so it will generate **AnimatedStatus.config.json** inside the **plugins** folder.
+	- ![bs_setup](./trashes/setup_bs.png)
 <a name="json_download"/></a>
 ### Download my `AnimatedStatus.config.json` file:
 - After complete step 7 above, [download mine one](https://github.com/nicknggt/BetterDiscord-Animated-Status-Date-Time-Plugins/releases/download/v1.0/plugins.zip) to replace the file **AnimatedStatus.config.json** in the **plugins** folder.
